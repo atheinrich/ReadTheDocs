@@ -1,19 +1,17 @@
 Primary Title
 =============
 
-Regular text,
-**bold** text,
-*italic* text,
-`external <https://github.com/atheinrich/>`_ link,
-:doc:`usage` (???),
-:ref:`installation` (???).
+Typical text: regular, *italic*, **bold**.
 
-New line.
+Linked text: `external <https://github.com/atheinrich/>`_, :doc:`usage` (???), :ref:`installation` (???).
 
-.. inset::
+Other text:
+``Inline text.``
 
-   Inset.
-
+Tabbed:
+   Test
+   test
+Test
 
 Secondary Title
 ---------------
