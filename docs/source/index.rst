@@ -17,7 +17,7 @@ Other text:
    :sup:`superscript`,
       doubly tabbed.
 
-.. textbox::
+.. note::
 
    Details.
 
