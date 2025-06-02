@@ -6,9 +6,9 @@ regular,
 *italic*,
 **bold**.
 
-Linked text: external `page <https://github.com/atheinrich/>`_,
-internal :doc:`page`,
-section :ref:`installation` (???).
+Linked text: `website <https://github.com/atheinrich/>`_,
+:doc:`page`,
+:ref:`section`.
 
 Other text:
    tabbed,
