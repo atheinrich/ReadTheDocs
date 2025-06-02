@@ -6,7 +6,8 @@ regular,
 *italic*,
 **bold**.
 
-Linked text: `website <https://github.com/atheinrich/>`_,
+Linked text:
+`website <https://github.com/atheinrich/>`_,
 :doc:`page`,
 :ref:`section`.
 
