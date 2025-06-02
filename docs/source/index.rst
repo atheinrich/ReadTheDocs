@@ -42,12 +42,11 @@ Shell output text.
 
 .. math::
 
-   block = (math)^2
+   block = 
 
-   (a + b)^2  &=  (a + b)(a + b) \\
-              &=  a^2 + 2ab + b^2
-   
-   Q\approx Q_D=-W_D=\int_{0}^{\tau}{\gamma\dot{x}\ dx}
+   block  &=  (math)^2 \\
+          &=  \int_{0}^{\tau}{\gamma\dot{x}\ dx}
+          &\approx  \int_{0}^{\tau}{\gamma\dot{x}\ dx}
 
 Table of Contents
 -----------------
