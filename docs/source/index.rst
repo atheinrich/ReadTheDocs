@@ -27,23 +27,20 @@ Secondary Title
 
    Regular text.
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
 .. code-block:: console
 
    (.env) $ Console syntax highlighting.
 
+>>> Also console syntax highlighting?
+Console output text.
+
 .. code-block:: python
 
-   def python_syntax():
+   def python_syntax_highlighting():
       pass
 
-Secondary Title
----------------
-
-Table of contents: 
+Table of Contents
+-----------------
 
 .. toctree::
 
