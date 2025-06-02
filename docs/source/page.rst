@@ -1,0 +1,4 @@
+Page
+====
+
+An example.
