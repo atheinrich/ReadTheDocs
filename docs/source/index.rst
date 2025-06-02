@@ -43,6 +43,8 @@ Shell output text.
 .. math::
 
    block = (math)^2
+   \int_0^\infty e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
+   Q\approx Q_D=-W_D=\int_{0}^{\tau}{\gamma\dot{x}\ dx}
 
 Table of Contents
 -----------------
