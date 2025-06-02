@@ -6,9 +6,9 @@ regular,
 *italic*,
 **bold**.
 
-Linked text: `external <https://github.com/atheinrich/>`_,
-:doc:`usage` (???),
-:ref:`installation` (???).
+Linked text: external `page <https://github.com/atheinrich/>`_,
+internal :doc:`page`,
+section :ref:`installation` (???).
 
 Other text:
    tabbed,
@@ -29,4 +29,4 @@ Table of contents:
 .. toctree::
 
    usage
-   api
+   page
