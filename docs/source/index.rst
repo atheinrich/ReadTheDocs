@@ -25,11 +25,11 @@ Secondary Title
 
 .. admonition:: Textbox title
 
-   Textbox text.
+   Text.
 
 .. code-block:: console
 
-   (.env) $ console commands
+   (.env) $ console syntax
 
 For example:
 
@@ -37,6 +37,13 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. code-block:: python
+
+   (.env) $ console syntax
+
+test
+
+>>> test
 
 Secondary Title
 ---------------
