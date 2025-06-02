@@ -11,7 +11,7 @@ Linked text:
 :doc:`page`,
 :ref:`section`.
 
-Other text:
+Other text:test
 
    tabbed,
    ``inline``,
