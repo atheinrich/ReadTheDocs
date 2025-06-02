@@ -44,8 +44,9 @@ Shell output text.
 
    block = (math)^2
 
-   \int_0^\infty e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
-
+   (a + b)^2  &=  (a + b)(a + b) \\
+              &=  a^2 + 2ab + b^2
+   
    Q\approx Q_D=-W_D=\int_{0}^{\tau}{\gamma\dot{x}\ dx}
 
 Table of Contents
