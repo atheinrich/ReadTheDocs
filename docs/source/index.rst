@@ -22,9 +22,9 @@ Other text:
 Secondary Title
 ---------------
 
-.. note::
+.. admonition:: Textbox title
 
-   Textbox.
+   Textbox text.
 
 .. code-block:: console
 
