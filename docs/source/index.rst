@@ -28,5 +28,4 @@ Table of contents:
 
 .. toctree::
 
-   usage
    page
