@@ -11,6 +11,7 @@ Linked text: `website <https://github.com/atheinrich/>`_,
 :ref:`section`.
 
 Other text:
+
    tabbed,
    ``inline``,
    :sub:`subscript`,
