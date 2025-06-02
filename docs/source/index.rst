@@ -1,24 +1,21 @@
 Primary Title
 =============
 
-Typical text: regular, *italic*, **bold**.
+Typical text:
+regular,
+*italic*,
+**bold**.
 
-Linked text: `external <https://github.com/atheinrich/>`_, :doc:`usage` (???), :ref:`installation` (???).
+Linked text: `external <https://github.com/atheinrich/>`_,
+:doc:`usage` (???),
+:ref:`installation` (???).
 
 Other text:
-``inline``,
-   tabbed
-   ``inline``
-   :sub:`subscript`
-   :sup:`superscript`
-
-Lists:
-* unordered item 1
-* unordered item 2
-   1. nested item 1
-   2. nested item 2
-      a. doubly nested item 1
-      b. doubly nested item 2
+   tabbed,
+   ``inline``,
+   :sub:`subscript`,
+   :sup:`superscript`,
+      doubly tabbed.
 
 
 Secondary Title
