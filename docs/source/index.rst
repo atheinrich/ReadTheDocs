@@ -38,11 +38,11 @@ Secondary Title
 >>> Doctest highlighting.
 Shell output text.
 
-:math:`/textrm{inline} = (math)^2`
+:math:`\textrm{inline} = (math)^2`
 
 .. math::
 
-   /textrm{block}  &=  (math)^2 \\
+   \textrm{block}  &=  (math)^2 \\
                    &=  \int_{0}^{\tau}{\gamma\dot{x}\ dx}
 
 Table of Contents
