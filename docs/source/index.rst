@@ -19,7 +19,6 @@ Other text:
    :sup:`superscript`,
       doubly tabbed.
 
-
 Secondary Title
 ---------------
 
@@ -35,7 +34,6 @@ Secondary Title
 
    def python_syntax_highlighting():
       pass
-
 
 .. execute::
 
