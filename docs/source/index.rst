@@ -2,15 +2,13 @@ Primary Title
 =============
 
 Regular text,
-**Bold text** with **,
-*italic text* with *,
-`external link <https://github.com/atheinrich/>`_ with ` and `_,
+**bold text**,
+*italic text*,
+`external link <https://github.com/atheinrich/>`_,
 :doc:`internal link`.
 
 New line.
-
 .. inset::
-
    Description.
 
 
