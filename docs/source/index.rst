@@ -1,10 +1,10 @@
 Primary Title
 =============
 
-**Bold text**,
-*italic text*,
-regular text,
-`external link <https://github.com/atheinrich/>`_,
+Regular text,
+**Bold text** with **,
+*italic text* with *,
+`external link <https://github.com/atheinrich/>`_ with ` and `_,
 :doc:`internal link`.
 
 New line.
@@ -13,10 +13,11 @@ New line.
 
    Description.
 
+
 Secondary Title
 ---------------
 
-Table of contents
+Table of contents: 
 
 .. toctree::
 
