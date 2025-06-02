@@ -1,5 +1,5 @@
-.math.display {
-    text-align: left !important;  /* or 'center' */
-    margin-left: 0;
-    margin-right: 0;
+div.math.display {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
 }
