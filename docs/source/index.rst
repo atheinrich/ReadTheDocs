@@ -16,6 +16,8 @@ New line.
 Secondary Title
 ---------------
 
+Table of contents
+
 .. toctree::
 
    usage
