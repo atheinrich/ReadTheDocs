@@ -11,7 +11,7 @@ Linked text:
 :doc:`page`,
 :ref:`section`.
 
-Other text:test
+Other text:
 
    tabbed,
    ``inline``,
@@ -42,11 +42,8 @@ Shell output text.
 
 .. math::
 
-   block = 
-
    block  &=  (math)^2 \\
           &=  \int_{0}^{\tau}{\gamma\dot{x}\ dx}
-          &\approx  \int_{0}^{\tau}{\gamma\dot{x}\ dx}
 
 Table of Contents
 -----------------
