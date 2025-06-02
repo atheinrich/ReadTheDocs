@@ -31,13 +31,13 @@ Secondary Title
 
    (.env) $ Console syntax highlighting.
 
->>> Also console syntax highlighting?
-Console output text.
-
 .. code-block:: python
 
    def python_syntax_highlighting():
       pass
+
+>>> Doctest highlighting.
+Shell output text.
 
 Table of Contents
 -----------------
