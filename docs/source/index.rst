@@ -38,6 +38,12 @@ Secondary Title
 >>> Doctest highlighting.
 Shell output text.
 
+:math:`inline = (math)^2`
+
+.. math::
+
+   block = (math)^2
+
 Table of Contents
 -----------------
 
