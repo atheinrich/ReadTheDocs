@@ -17,9 +17,9 @@ Other text:
    :sup:`superscript`,
       doubly tabbed.
 
-.. note::
+.. textbox::
 
-   This project is under active development.
+   Details.
 
 Secondary Title
 ---------------
