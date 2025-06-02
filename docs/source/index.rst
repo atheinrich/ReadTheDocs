@@ -17,6 +17,9 @@ Other text:
    :sup:`superscript`,
       doubly tabbed.
 
+.. note::
+
+   This project is under active development.
 
 Secondary Title
 ---------------
