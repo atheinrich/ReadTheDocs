@@ -25,25 +25,20 @@ Secondary Title
 
 .. admonition:: Textbox title
 
-   Text.
-
-.. code-block:: console
-
-   (.env) $ console syntax
-
-For example:
+   Regular text.
 
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+.. code-block:: console
+
+   (.env) $ Console syntax highlighting.
+
 .. code-block:: python
 
-   (.env) $ console syntax
-
-test
-
->>> test
+   def python_syntax():
+      pass
 
 Secondary Title
 ---------------
