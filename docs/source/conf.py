@@ -17,13 +17,11 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx.ext.mathjax',
-]
+    'sphinx.ext.mathjax']
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
-    'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-}
+    'sphinx': ('https://www.sphinx-doc.org/en/master/', None)}
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
@@ -38,3 +36,5 @@ epub_show_urls = 'footnote'
 html_static_path = ['_static']
 def setup(app):
     app.add_css_file('custom.css')
+mathjax3_config = {
+    'tex': {'displayAlign': 'left'}}
