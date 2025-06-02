@@ -37,6 +37,7 @@ Secondary Title
 
 .. execute::
 
+   # Test test
    print("Run some code.")
 
 >>> Doctest highlighting.
