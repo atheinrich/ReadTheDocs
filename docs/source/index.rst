@@ -35,14 +35,9 @@ Secondary Title
    def python_syntax_highlighting():
       pass
 
-.. execute::
-
-   # Test test
-   print("Run some code.")
-
 >>> Doctest highlighting.
 Shell output text.
-???
+test
 
 Table of Contents
 -----------------
