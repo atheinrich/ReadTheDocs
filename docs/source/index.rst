@@ -37,7 +37,6 @@ Secondary Title
 
 >>> Doctest highlighting.
 Shell output text.
-test
 
 Table of Contents
 -----------------
