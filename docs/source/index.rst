@@ -8,8 +8,10 @@ Regular text,
 :doc:`internal link`.
 
 New line.
+   Boxed text.
+
 .. inset::
-   Description.
+   Inset.
 
 
 Secondary Title
