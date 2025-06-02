@@ -1,3 +1,7 @@
+body div.math.display {
+  text-align: left !important;
+}
+
 div.math.display {
   text-align: left !important;
   margin-left: 0 !important;
